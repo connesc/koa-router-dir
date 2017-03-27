@@ -1,6 +1,6 @@
 {
   "name": "koa-router-dir",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Directory-based routing on top of koa-router",
   "license": "ISC",
   "author": "Cédric Connes <cedric.connes@gmail.com>",
