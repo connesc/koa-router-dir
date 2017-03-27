@@ -1,0 +1,23 @@
+{
+  "name": "koa-router-dir",
+  "version": "0.1.0",
+  "description": "Directory-based routing on top of koa-router",
+  "license": "ISC",
+  "author": "Cédric Connes <cedric.connes@gmail.com>",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "repository": "connesc/koa-router-dir",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "koa-router": "^7.1.0",
+    "require-all": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-connesc": "^3.0.0"
+  }
+}
